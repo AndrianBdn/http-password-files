@@ -13,5 +13,6 @@ Known issues:
 
 - No HTTP range requests 
 - No HTTP HEAD request 
+- No tests (it just works)
 
 Additionally (in real life) this thing is protected by HTTPS using nginx (not included)
